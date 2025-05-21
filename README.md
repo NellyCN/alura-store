@@ -4,11 +4,11 @@ Este proyecto aplica un enfoque **data-driven** para apoyar la decisión del Sr.
 
 ---
 
-## 🎯 Objetivo del Proyecto
+## 🎯 Objetivo del Proyecto - KPIs Analizados
 
 Brindar al Sr. Juan una base cuantitativa sólida para decidir cuál de sus tiendas vender y así liberar capital que pueda reinvertir en un nuevo negocio. Se evaluaron las siguientes métricas por tienda:
 
-- Facturación total.
+- Facturación total por tiendas.
 - Categorías más populares (por cantidad y facturación).
 - Evaluación promedio de clientes.
 - Productos más y menos vendidos.
@@ -18,7 +18,8 @@ Brindar al Sr. Juan una base cuantitativa sólida para decidir cuál de sus tien
 
 ## 🧠 **Habilidades y Herramientas Aplicadas**
 
-- **Python (Google Colab)**
+- **Python 3.10**
+- **Google Colab**
 - **Pandas, Numpy, Matplotlib y Seaborn** para análisis y visualización de datos.
 - **Data Wrangling**: limpieza y transformación de datos para obtener variables clave.
 - **Análisis de desempeño por KPIs**.
@@ -34,6 +35,7 @@ Brindar al Sr. Juan una base cuantitativa sólida para decidir cuál de sus tien
 ---
 
 ## 📁 **Estructura del Proyecto**
+
 ```
 📂 alura-store/
 │
@@ -42,7 +44,10 @@ Brindar al Sr. Juan una base cuantitativa sólida para decidir cuál de sus tien
 ├── 📊 Informe_final.md
 ├── 📈 analisis_datos_alura_store.ipynb
 ├── 📂 data/
-|    └── ventas_tiendas.csv
+|    └── tienda_1.csv
+|    └── tienda_2.csv
+|    └── tienda_3.csv
+|    └── tienda_4.csv
 └── 📁 images/                   ← Carpeta con los gráficos generados desde Colab.
     └── img.png
 ```
@@ -142,9 +147,9 @@ Luego del análisis integral, se recomienda vender **la Tienda 4**, ya que:
 
 ---
 
-## 👩‍💼 **Créditos**
+## ✍️ **Autor**
 
-Proyecto desarrollado por: _**Nelly Cumpa**_
+Proyecto desarrollado por: _**Nelly C.N.**_
 
 Especialista en análisis de datos, con formación en Administración de Banca y Finanzas. Experiencia en proyectos que combinan visión de negocio con análisis técnico de datos.
 
