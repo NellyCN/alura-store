@@ -48,9 +48,19 @@ Brindar al Sr. Juan una base cuantitativa sólida para decidir cuál de sus tien
 |    └── tienda_2.csv
 |    └── tienda_3.csv
 |    └── tienda_4.csv
-└── 📁 images/                   ← Carpeta con los gráficos generados desde Colab.
+└── 📁 images/     ← Gráficos generados desde Colab.
     └── img.png
 ```
+
+---
+
+## 📈 **Visualizaciones Destacadas**
+
+<img src="images/facturacion-total-por-tienda.png" width="600">
+
+<img src="images/categorias-mas-vendidas-por-tienda.png" width="1100">
+
+<img src="images/costo-envio-promedio-por-tienda.png" width="600">
 
 ---
 
