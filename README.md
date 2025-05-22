@@ -10,9 +10,9 @@ Este proyecto aplica un enfoque **data-driven** para apoyar la decisión del Sr.
 - [🧠 Habilidades y Herramientas Aplicadas](#-Habilidades-y-Herramientas-Aplicadas)
 - [📁 Estructura del Proyecto](#-estructura-del-proyecto)
 - [📈 Visualizaciones Destacadas](#-visualizaciones-destacadas)
-- [🧪 Instalación y Ejecución](#-instalacion-y-ejecucion)
-- [🛠️ Instalación de dependencias](#-instalacion-de-dependencias)
-- [▶️ Cómo ejecutar el proyecto](#-como-ejecutar-el-proyecto)
+- [🧪 Instalacion y Ejecucion](#-instalacion-y-ejecucion)
+- [🛠️ Instalacion de dependencias](#-instalacion-de-dependencias)
+- [▶️ Como ejecutar el proyecto](#-como-ejecutar-el-proyecto)
 - [📦 Principales Dependencias](#-principales-dependencias)
 - [🛠️ Posibles Problemas](#-posibles-problemas)
 - [✅ Recomendación Final](#-recomendacion-final)
@@ -83,7 +83,7 @@ Brindar al Sr. Juan una base cuantitativa sólida para decidir cuál de sus tien
 
 ---
 
-## 🧪 **Instalación y Ejecución**
+## 🧪 **Instalacion y Ejecucion**
 
 Este proyecto fue desarrollado y ejecutado en Google Colab, no se requiere instalación local.
 
@@ -111,7 +111,7 @@ Asegúrate de tener instalado:
 
 ---
 
-## 🛠️ **Instalación de dependencias**
+## 🛠️ **Instalacion de dependencias**
 
 ```bash
 pip install pandas numpy matplotlib seaborn
@@ -119,7 +119,7 @@ pip install pandas numpy matplotlib seaborn
 
 ---
 
-## ▶️ **Cómo ejecutar el proyecto**
+## ▶️ **Como ejecutar el proyecto**
 
 1. Clona este repositorio:
 
@@ -163,7 +163,7 @@ import seaborn as sns
 
 ---
 
-## ✅ **Recomendación Final**
+## ✅ **Recomendacion Final**
 
 Luego de realizar un análisis integral, que se detalla en [informe_final.md](https://github.com/NellyCN/alura-store/blob/main/informe_final.md), se recomienda vender **la Tienda 4**, considerando que:
 
