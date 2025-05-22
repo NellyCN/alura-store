@@ -6,17 +6,17 @@ Este proyecto aplica un enfoque **data-driven** para apoyar la decisión del Sr.
 
 ## 📌 Contenido
 
-- [🎯 Objetivo del Proyecto](#objetivo-del-proyecto---kpis-analizados)
-- [🧠 Habilidades y Herramientas Aplicadas](#Habilidades-y-Herramientas-Aplicadas)
-- [📁 Estructura del Proyecto](##estructura-del-proyecto)
-- [📈 Visualizaciones Destacadas](#visualizaciones-destacadas)
-- [🧪 Instalación y Ejecución](#instalación-y-ejecución)
-- [🛠️ Instalación de dependencias](#instalacion-de-dependencias)
-- [▶️ Cómo ejecutar el proyecto](#como-ejecutar-el-proyecto)
-- [📦 Principales Dependencias](#principales-dependencias)
-- [🛠️ Posibles Problemas](#posibles-problemas)
-- [✅ Recomendación Final](#recomendacion-final)
-- [📬 Contacto](#contacto)
+- [🎯 Objetivo del Proyecto](#-objetivo-del-proyecto---kpis-analizados)
+- [🧠 Habilidades y Herramientas Aplicadas](#-Habilidades-y-Herramientas-Aplicadas)
+- [📁 Estructura del Proyecto](#-#estructura-del-proyecto)
+- [📈 Visualizaciones Destacadas](#-visualizaciones-destacadas)
+- [🧪 Instalación y Ejecución](#-instalación-y-ejecución)
+- [🛠️ Instalación de dependencias](#-instalacion-de-dependencias)
+- [▶️ Cómo ejecutar el proyecto](#-como-ejecutar-el-proyecto)
+- [📦 Principales Dependencias](#-principales-dependencias)
+- [🛠️ Posibles Problemas](#-posibles-problemas)
+- [✅ Recomendación Final](#-recomendacion-final)
+- [📬 Contacto](#-contacto)
 
 
 
