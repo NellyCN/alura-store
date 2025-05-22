@@ -4,6 +4,17 @@ Este proyecto aplica un enfoque **data-driven** para apoyar la decisión del Sr.
 
 ---
 
+## 📌 Contenido
+
+- [🎯 Objetivo del Proyecto](#objetivo-del-proyecto)
+- [ Habilidades y Herramientas Aplicadas](Habilidades-y-Herramientas-Aplicadas)
+- [📁 Estructura del Proyecto](#estructura-del-proyecto)
+- [🔍 Análisis y Resultados](#análisis-y-resultados)
+- [📄 Informe Final](#informe-final)
+- [📊 Gráficos Representativos](#gráficos-representativos)
+- [✅ Conclusión](#conclusión)
+
+
 ## 🎯 Objetivo del Proyecto - KPIs Analizados
 
 Brindar al Sr. Juan una base cuantitativa sólida para decidir cuál de sus tiendas vender y así liberar capital que pueda reinvertir en un nuevo negocio. Se evaluaron las siguientes métricas por tienda:
