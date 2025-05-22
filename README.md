@@ -157,14 +157,14 @@ Luego del análisis integral, se recomienda vender **la Tienda 4**, ya que:
 
 ---
 
-## 📬 ** Contáctame**
+## 📬 **Contáctame**
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
-👤 Proyecto desarrollado por: _**Nelly C.N.**_
-📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/nellycumpa/)
-📁 Portafolio: [Visita mi Github](https://github.com/NellyCN)
-📧 Escríbeme a njanet03@gmail.com
+* 👤 Proyecto desarrollado por: _**Nelly C.N.**_
+* 📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/nellycumpa/)
+* 📁 Portafolio: [Visita mi Github](https://github.com/NellyCN)
+* 📧 Escríbeme a njanet03@gmail.com
 
 ---
 
