@@ -8,9 +8,9 @@ Este proyecto aplica un enfoque **data-driven** para apoyar la decisión del Sr.
 
 - [🎯 Objetivo del Proyecto](#-objetivo-del-proyecto---kpis-analizados)
 - [🧠 Habilidades y Herramientas Aplicadas](#-Habilidades-y-Herramientas-Aplicadas)
-- [📁 Estructura del Proyecto](#-#estructura-del-proyecto)
+- [📁 Estructura del Proyecto](#-estructura-del-proyecto)
 - [📈 Visualizaciones Destacadas](#-visualizaciones-destacadas)
-- [🧪 Instalación y Ejecución](#-instalación-y-ejecución)
+- [🧪 Instalación y Ejecución](#-instalacion-y-ejecucion)
 - [🛠️ Instalación de dependencias](#-instalacion-de-dependencias)
 - [▶️ Cómo ejecutar el proyecto](#-como-ejecutar-el-proyecto)
 - [📦 Principales Dependencias](#-principales-dependencias)
