@@ -6,9 +6,9 @@ Este proyecto aplica un enfoque **data-driven** para apoyar la decisión del Sr.
 
 ## 📌 Contenido
 
-- [🎯 Objetivo del Proyecto](#objetivo-del-proyecto)
-- [ Habilidades y Herramientas Aplicadas](Habilidades-y-Herramientas-Aplicadas)
-- [📁 Estructura del Proyecto](#estructura-del-proyecto)
+- [🎯 Objetivo del Proyecto](##objetivo-del-proyecto)
+- [ Habilidades y Herramientas Aplicadas](##Habilidades-y-Herramientas-Aplicadas)
+- [📁 Estructura del Proyecto](##estructura-del-proyecto)
 - [🔍 Análisis y Resultados](#análisis-y-resultados)
 - [📄 Informe Final](#informe-final)
 - [📊 Gráficos Representativos](#gráficos-representativos)
