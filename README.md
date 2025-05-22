@@ -2,7 +2,8 @@
 
 Este proyecto aplica un enfoque **data-driven** para apoyar la decisión del Sr. Juan sobre cuál de sus cuatro tiendas vender. Se analizan múltiples dimensiones del rendimiento de cada tienda, usando Python y herramientas de análisis de datos para ofrecer una recomendación basada en indicadores clave (KPIs).
 
-[Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+
 ---
 
 ## 🎯 Objetivo del Proyecto - KPIs Analizados
