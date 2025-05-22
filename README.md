@@ -153,25 +153,18 @@ Luego del análisis integral, se recomienda vender **la Tienda 4**, ya que:
 - Tiene menor satisfacción del cliente
 - Aunque su **costo de envío es el más bajo**, no compensa su bajo rendimiento general.
 
-> 🎯 **Recomendación:** Reinvertir el capital liberado en negocios con mayor potencial o fortalecer las tiendas con mejor desempeño (Tiendas 1 y 3).
+> 🎯 **Recomendación complementaria:** Reinvertir el capital liberado en negocios con mayor potencial o fortalecer las tiendas con mejor desempeño (Tiendas 1 y 3).
 
 ---
 
-## ✍️ **Autor**
+## 📬 ** Contáctame**
 
-Proyecto desarrollado por: _**Nelly C.N.**_
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
-Especialista en análisis de datos, con formación en Administración de Banca y Finanzas. Experiencia en proyectos que combinan visión de negocio con análisis técnico de datos.
-
----
-
-## 📬 **Contactame**
-
+👤 Proyecto desarrollado por: _**Nelly C.N.**_
 📫 Conecta conmigo en [LinkedIn](https://www.linkedin.com/in/nellycumpa/)
-
 📁 Portafolio: [Visita mi Github](https://github.com/NellyCN)
-
-📧 Escríbeme a njanetcumpa@gmail.com
+📧 Escríbeme a njanet03@gmail.com
 
 ---
 
