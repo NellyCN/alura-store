@@ -8,18 +8,18 @@ Este proyecto aplica un enfoque **data-driven** para apoyar la decisión del Sr.
 
 Brindar al Sr. Juan una base cuantitativa sólida para decidir cuál de sus tiendas vender y así liberar capital que pueda reinvertir en un nuevo negocio. Se evaluaron las siguientes métricas por tienda:
 
-- Facturación total por tiendas.
-- Categorías más populares (por cantidad y facturación).
-- Evaluación promedio de clientes.
-- Productos más y menos vendidos.
-- Costo promedio de envío.
+**- Facturación total por tiendas.**
+**- Categorías más populares (por cantidad y facturación).**
+**- Evaluación promedio de clientes.**
+**- Productos más y menos vendidos.**
+**- Costo promedio de envío.**
 
 ---
 
 ## 🧠 **Habilidades y Herramientas Aplicadas**
 
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)     ![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-orange)     ![Seaborn](https://img.shields.io/badge/Seaborn-0.11%2B-red)      ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-blueviolet)     ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=google-colab&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-orange) ![Seaborn](https://img.shields.io/badge/Seaborn-0.11%2B-red) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5%2B-blueviolet) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=google-colab&logoColor=white)
 
 - **Python 3.10**
 - **Google Colab**
@@ -149,18 +149,18 @@ import seaborn as sns
 
 ## ✅ **Recomendación Final**
 
-Luego del análisis integral, se recomienda vender **la Tienda 4**, ya que:
+Luego de realizar un análisis integral, que se detalla en [informe_final.md](https://github.com/NellyCN/alura-store/blob/main/informe_final.md), se recomienda vender **la Tienda 4**, considerando que:
 
 - Tiene la **facturación más baja**.
 - No lidera en ninguna categorías estratégica.
-- Tiene menor satisfacción del cliente
+- Tiene menor satisfacción del cliente.
 - Aunque su **costo de envío es el más bajo**, no compensa su bajo rendimiento general.
 
 > 🎯 **Recomendación complementaria:** Reinvertir el capital liberado en negocios con mayor potencial o fortalecer las tiendas con mejor desempeño (Tiendas 1 y 3).
 
 ---
 
-## 📬 **Contáctame**
+## 📬 **Contacto**
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
