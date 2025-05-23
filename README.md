@@ -1,4 +1,4 @@
-![Analisis de Desempeño1](./images/analisis-de-desempeno1.png)
+![Analisis Desempeño1](./images/analisis-desempeño.png)
 <img src="images/categorias-mas-vendidas-por-tienda.png" width="1100">
 # 📈 Evaluación de Desempeño de Tiendas – Análisis para Decisión Estratégica
 
