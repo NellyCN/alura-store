@@ -1,3 +1,5 @@
+![Analisis de Desempeño1](./images/analisis-de-desempeno1.png)
+<img src="images/categorias-mas-vendidas-por-tienda.png" width="1100">
 # 📈 Evaluación de Desempeño de Tiendas – Análisis para Decisión Estratégica
 
 Este proyecto aplica un enfoque **data-driven** para apoyar la decisión del Sr. Juan sobre cuál de sus cuatro tiendas vender. Se analizan múltiples dimensiones del rendimiento de cada tienda, usando Python y herramientas de análisis de datos para ofrecer una recomendación basada en indicadores clave (KPIs).
