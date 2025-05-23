@@ -14,10 +14,10 @@ Este proyecto aplica un enfoque **data-driven** para apoyar la decisión del Sr.
 - [🛠️ Instalacion de dependencias](#-instalacion-de-dependencias)
 - [▶️ Como ejecutar el proyecto](#-como-ejecutar-el-proyecto)
 - [📦 Principales Dependencias](#-principales-dependencias)
-- [🛠️ Posibles Problemas](#-posibles-problemas)
+- [🛠️ Posibles Problemas](#%EF%B8%8F-posibles-problemas)
 - [✅ Recomendación Final](#-recomendacion-final)
 - [📬 Contacto](#-contacto)
-
+https://github.com/NellyCN/alura-store/blob/main/README.md#%EF%B8%8F-posibles-problemas
 
 
 ## 🎯 Objetivo del Proyecto - KPIs Analizados
