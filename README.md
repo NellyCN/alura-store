@@ -1,5 +1,4 @@
-![Analisis Desempeño](./images/analisis-desempeno.PNG)
-<img src="images/analisis-desempeno.PNG" width="1100">
+<img src="images/analisis-desempeno.PNG" width="600">
 
 # 📈 Evaluación de Desempeño de Tiendas – Análisis para Decisión Estratégica
 
