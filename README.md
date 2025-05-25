@@ -10,6 +10,7 @@ Este proyecto aplica un enfoque **data-driven** para apoyar la decisión del Sr.
 
 - [🎯 Objetivo del Proyecto](#-objetivo-del-proyecto---kpis-analizados)
 - [🧠 Habilidades y Herramientas Aplicadas](#-Habilidades-y-Herramientas-Aplicadas)
+- [🗂️ Gestión del Proyecto con Trello](#️-gestión-del-proyecto-con-trello)
 - [📁 Estructura del Proyecto](#-estructura-del-proyecto)
 - [📈 Visualizaciones Destacadas](#-visualizaciones-destacadas)
 - [🧪 Instalacion y Ejecucion](#-instalacion-y-ejecucion)
@@ -53,6 +54,17 @@ Brindar al Sr. Juan una base cuantitativa sólida para decidir cuál de sus tien
 >- No se realizan suposiciones sin respaldo numérico.
 >- La recomendación final está alineada con métricas de desempeño.
 
+---
+
+## 🗂️ Gestión del Proyecto con Trello
+
+Para organizar y monitorear el avance de este proyecto se utilizó [Trello](https://trello.com) con una estructura basada en metodología Kanban.  
+Se dividió el trabajo en listas: **Herramientas**, **Backlog**, **En Desarrollo**, **Pausado** y **Consluido**, facilitando un flujo claro de tareas y prioridades.
+
+📌 Vista del tablero utilizado:
+
+![Tablero Trello](./images/tablero_trello.png)
+https://trello.com/b/TvY2Z8IJ/alura-storelatam
 ---
 
 ## 📁 **Estructura del Proyecto**
