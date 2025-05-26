@@ -63,7 +63,7 @@ Se dividió el trabajo en listas: **Herramientas**, **Backlog**, **En Desarrollo
 
 📌 Vista del tablero utilizado:
 
-<img src="imagesalura-store_trello.png" width="600">
+<img src="images/alura-store_Trello.png" width="600">
 
 ---
 
