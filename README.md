@@ -63,8 +63,8 @@ Se dividió el trabajo en listas: **Herramientas**, **Backlog**, **En Desarrollo
 
 📌 Vista del tablero utilizado:
 
-![Tablero Trello](./images/tablero_trello.png)
-https://trello.com/b/TvY2Z8IJ/alura-storelatam
+<img src="imagesalura-store_trello.png" width="600">
+
 ---
 
 ## 📁 **Estructura del Proyecto**
